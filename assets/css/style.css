@@ -7,6 +7,7 @@
         justify-content: center;
         align-items: center;
          height: 100vh; 
+      
        
     }
 
@@ -14,6 +15,7 @@
         display: flex;
         justify-content: center;
         background-color:hsl(217, 19%, 38%);
+        border-radius: 15px;
     }
 
     h1 , .btn, p{
@@ -28,8 +30,9 @@
   .dice-btn{
       display:flex;
       justify-content: center;
+      
   }
 
-  #dice-icon{
+  #dice-icon, button{
     background-color: hsl(150, 100%, 66%);
   }
