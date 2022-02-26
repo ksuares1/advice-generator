@@ -16,12 +16,20 @@
         background-color:hsl(217, 19%, 38%);
     }
 
+    h1 , .btn, p{
+        text-align: center;
+    }
+
 
     .first-advice{
         color:hsl(150, 100%, 66%);
     }
 
-    /* .card{
-        background-color:hsl(217, 19%, 38%);
+  .dice-btn{
+      display:flex;
+      justify-content: center;
+  }
 
-    } */
+  #dice-icon{
+    background-color: hsl(150, 100%, 66%);
+  }
