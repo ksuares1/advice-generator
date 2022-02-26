@@ -33,6 +33,12 @@
       
   }
 
-  #dice-icon, button{
+  #dice-icon{
     background-color: hsl(150, 100%, 66%);
+  }
+
+  button{
+    background-color: hsl(150, 100%, 66%);
+    border-radius: 5px;
+    border-color: hsl(150, 100%, 66%) ;
   }
