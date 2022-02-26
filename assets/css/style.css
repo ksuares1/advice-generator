@@ -3,6 +3,11 @@
 
     body{
         background-color: hsl(217, 19%, 24%);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+         height: 100vh; 
+       
     }
 
     .container{
