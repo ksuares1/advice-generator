@@ -9,3 +9,8 @@
         display: flex;
         justify-content: center;
     }
+
+
+    .first-advice{
+        color:hsl(150, 100%, 66%);
+    }
